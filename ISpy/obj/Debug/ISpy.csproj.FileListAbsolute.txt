@@ -1,0 +1,10 @@
+C:\Users\Wolf\source\repos\ISpy\ISpy\bin\Debug\ISpy.exe.config
+C:\Users\Wolf\source\repos\ISpy\ISpy\bin\Debug\ISpy.exe
+C:\Users\Wolf\source\repos\ISpy\ISpy\bin\Debug\ISpy.pdb
+C:\Users\Wolf\source\repos\ISpy\ISpy\obj\Debug\ISpy.csprojAssemblyReference.cache
+C:\Users\Wolf\source\repos\ISpy\ISpy\obj\Debug\ISpy.Form1.resources
+C:\Users\Wolf\source\repos\ISpy\ISpy\obj\Debug\ISpy.Properties.Resources.resources
+C:\Users\Wolf\source\repos\ISpy\ISpy\obj\Debug\ISpy.csproj.GenerateResource.cache
+C:\Users\Wolf\source\repos\ISpy\ISpy\obj\Debug\ISpy.exe
+C:\Users\Wolf\source\repos\ISpy\ISpy\obj\Debug\ISpy.pdb
+C:\Users\Wolf\source\repos\ISpy\ISpy\obj\Debug\ISpy.Form2.resources

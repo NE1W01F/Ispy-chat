@@ -1,0 +1,6 @@
+C:\Users\Wolf\source\repos\ISpy\ISpy Server\bin\Debug\ISpy Server.exe.config
+C:\Users\Wolf\source\repos\ISpy\ISpy Server\bin\Debug\ISpy Server.exe
+C:\Users\Wolf\source\repos\ISpy\ISpy Server\bin\Debug\ISpy Server.pdb
+C:\Users\Wolf\source\repos\ISpy\ISpy Server\obj\Debug\ISpy Server.csprojAssemblyReference.cache
+C:\Users\Wolf\source\repos\ISpy\ISpy Server\obj\Debug\ISpy Server.exe
+C:\Users\Wolf\source\repos\ISpy\ISpy Server\obj\Debug\ISpy Server.pdb
